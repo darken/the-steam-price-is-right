@@ -1,0 +1,13 @@
+*.swp
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Directories #
+###########################################
+node_modules
+bin

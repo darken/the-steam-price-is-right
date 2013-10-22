@@ -1,0 +1,27 @@
+{
+  "name": "the-steam-price-is-right",
+  "version": "0.4.0",
+  "description": "Check steam community market items prices",
+  "main": "app.js",
+  "dependencies": {
+    "play": "~0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darken/the-steam-price-is-right"
+  },
+  "keywords": [
+    "check",
+    "steam",
+    "community",
+    "market",
+    "items",
+    "price"
+  ],
+  "author": "Darken <darken.dev@gmail.com>",
+  "license": "BSD-2-Clause"
+}
